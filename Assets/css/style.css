@@ -1,0 +1,20 @@
+h1{
+  text-align: center;
+  font-size: 56px;
+  padding: 20px;
+  color: orange;
+}
+
+#timer {
+  text-align: center;
+  padding: 10px;
+}
+
+.questions{
+  padding: 20px;
+  text-align: center;
+}
+
+p{
+  color: red;
+}
